@@ -5,7 +5,6 @@
 ## Навыки
 
 * Python
-* Django
 * HTML/CSS
 * JavaScript
 * Flask
